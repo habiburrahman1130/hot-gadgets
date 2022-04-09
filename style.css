@@ -1,0 +1,53 @@
+
+.container:first-child {
+    margin-bottom: 0;
+}
+.container {
+    margin-bottom: 100px;
+}
+
+.new {
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+  
+}
+.row h1 {
+    margin-bottom: 10px;
+}
+.buy-button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    border: none;
+
+}
+.all {
+    margin-bottom: 20px;
+}
+.all h6 {
+    color: #FF9D00;
+}
+.price {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+.categories {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.cat {
+    width: 248px;
+    height: 150px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    margin: 10px;
+    position: relative;
+}
+
